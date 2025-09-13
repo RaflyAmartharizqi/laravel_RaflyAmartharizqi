@@ -1,7 +1,7 @@
 ## Cara Menjalankannya
 1. Clone Repository Ini
 2. Rename .env.example menjadi .env
-3. Ubah
+3. Ubah data ini pada.env yang telah di rename
 - **DB_DATABASE=test-pekerjaan-teramedik-2**
 - **DB_USERNAME=root**
 - **DB_PASSWORD=**
