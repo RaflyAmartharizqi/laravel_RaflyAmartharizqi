@@ -1,3 +1,14 @@
+## Cara Menjalankannya
+1. Clone Repository Ini
+2. Rename .env.example menjadi .env
+3. Ubah **DB_DATABASE=test-pekerjaan-teramedik-2
+DB_USERNAME=root
+DB_PASSWORD=**
+4. Jalankan **php artisan migrate --seed** di terminal
+5. Jalankan **php artisan serve** di terminal
+6. Klik link pada terminal
+7. Login dengan akun (**username: admin | password: 12345678**)
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
